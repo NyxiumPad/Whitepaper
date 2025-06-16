@@ -104,7 +104,7 @@ Users accumulate points via:
 | Gold     | 1.5x       |
 | Diamond  | 1.75x      |
 
-*Badges are purchased via wNYX tokens.*
+*Badges are purchased via NyxiumPad's Offical WebApp.*
 
 ---
 
