@@ -117,9 +117,6 @@ NyxiumPad sustains development through:
 ---
 
 ## 9. Conclusion & Call to Action
-NyxiumPad is redefining decentralized fundraising with a **community-centric, transparent, and engaging** model. Join us:
-- **Participate**: [WebApp Link]
-- **Learn More**: [Website]
-- **Connect**: [Twitter/Discord]
+NyxiumPad is redefining decentralized fundraising with a **community-centric, transparent, and engaging** model.
 
 **Together, we build the future of Web3.**
