@@ -74,7 +74,7 @@ NyxiumPad offers:
 
 ## 6. Roadmap
 ### 2025
-- **1st Jun**: NyxiumPad launch.
+- **1<sup>st</sup> Jun**: NyxiumPad launch.
 - **July–Sep**: Airdrop Event (Season 1).
 - **Oct-Dec**: Airdrop Event (Season 2).
 
