@@ -62,15 +62,14 @@ NyxiumPad offers:
 | Contract Address | `0x0652...1850`          |
 
 ### 5.2 Tokenomics
-
-graph TD
+<pre> ```mermaid graph TD
     A[Community] --> B(Ecosystem Growth)
     C[NYX Token] --> D{Platform Utilities}
     D --> E[Staking]
     D --> F[Governance]
     D --> G[Fee Payment]
     H[Polygon] --> I[Low Fees]
-    H --> J[Fast Transactions]
+    H --> J[Fast Transactions] ``` </pre>
     
 | Allocation       | Percentage | Purpose                     |
 |------------------|------------|-----------------------------|
