@@ -56,10 +56,10 @@ NyxiumPad offers:
 |------------------|--------------------------|
 | Name             | Nyxium                   |
 | Symbol           | NYX                      |
-| Blockchain       | Polygon (Chain ID: 137)  |
-| Total Supply     | 1,000,000 NYX            |
 | Decimals         | 18                       |
+| Total Supply     | 1,000,000 NYX            |
 | Contract Address | [`0x0652...1850`](https://polygonscan.com/token/0x0652128e0235ddc297f595c08f510821a85041d1)          |
+| Blockchain       | Polygon (Chain ID: 137)  |
 
 ### 5.2 Tokenomics
     
