@@ -9,7 +9,7 @@
 ## 1. Executive Summary
 NyxiumPad is a **decentralized launchpad** built on the **Polygon network**, designed to empower Web3 startups with seamless token launches, presales, and community-driven growth. At its core, the **Nyxium (NYX) token** fuels the ecosystem, enabling staking, governance, and access to platform utilities.
 
-With a **fair, community-first approach**, NyxiumPad integrates gamified participation (airdrops, quizzes, and badges) to foster engagement while ensuring long-term sustainability through a limited **1 Million NYX token supply**.
+With a **fair, community-first approach**, NyxiumPad integrates gamified participation (airdrops, quizzes, and badges) to foster engagement while ensuring long-term sustainability through a limited supply of **1 Million NYX token**.
 
 ---
 
@@ -62,7 +62,6 @@ NyxiumPad offers:
 | Blockchain       | Polygon (Chain ID: 137)  |
 
 ### 5.2 Tokenomics
-    
 | Allocation       | Percentage | Purpose                     |
 |------------------|------------|-----------------------------|
 | Community        | 35%        | Airdrops, rewards           |
@@ -75,13 +74,16 @@ NyxiumPad offers:
 
 ## 6. Roadmap
 ### 2025
-- **June**: NyxiumPad launch.
-- **July–Sep**: Airdrop Season 1.
+- **1st Jun**: NyxiumPad launch.
+- **July–Sep**: Airdrop Event (Season 1).
+- **Oct-Dec**: Airdrop Event (Season 2).
 
 ### 2026
-- **Q1–Q3**: Airdrop Seasons 2–5.
-- **October**: Token Generation Event (TGE).
-- **November**: NYX listed on centralized exchanges.
+- **Jan-Mar**: Airdrop Event (Seasons 3).
+- **Apr-Jun**: Airdrop Event (Seasons 4).
+- **Jul-Sep**: Airdrop Event (Seasons 5).
+- **Oct**: Token Generation Event (TGE).
+- **12<sup>th</sup> Nov**: NYX listed on Exchanges.
 
 ---
 
