@@ -9,7 +9,7 @@
 ## 1. Executive Summary
 NyxiumPad is a **decentralized launchpad** built on the **Polygon network**, designed to empower Web3 startups with seamless token launches, presales, and community-driven growth. At its core, the **Nyxium (NYX) token** fuels the ecosystem, enabling staking, governance, and access to platform utilities.
 
-With a **fair, community-first approach**, NyxiumPad integrates gamified participation (airdrops, quizzes, and badges) to foster engagement while ensuring long-term sustainability through a fixed and limited **1M NYX token supply**.
+With a **fair, community-first approach**, NyxiumPad integrates gamified participation (airdrops, quizzes, and badges) to foster engagement while ensuring long-term sustainability through a fixed and limited **1 Million NYX token supply**.
 
 ---
 
