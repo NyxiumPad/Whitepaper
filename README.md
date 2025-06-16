@@ -97,14 +97,46 @@ Users accumulate points via:
 - **Badge Multipliers** (1x–1.75x bonus)
 
 ### 7.2 Badge System
-| Badge    | Multiplier |
-|----------|------------|
-| None     | 1x         |
-| Silver   | 1.25x      |
-| Gold     | 1.5x       |
-| Diamond  | 1.75x      |
+In the NyxiumPad ecosystem, **badges are premium point multipliers** that can be **purchased exclusively through the official webApp**. They are not NFTs, not earned through activities, and cannot be transferred. Their sole purpose is to **boost the number of points** a user holds, which will directly impact the amount of **NYX tokens** received during the **Token Generation Event (TGE)**.
+| Badge        | Multiplier | Description |
+|--------------|------------|-------------|
+| 🥈 **Silver**   | 1.25x      | Entry-level badge for moderate point boost |
+| 🥇 **Gold**     | 1.5x       | Mid-tier badge offering stronger boost |
+| 💎 **Diamond**  | 2x         | Highest-tier badge with maximum multiplier |
+- Badges can only be **purchased via the NyxiumPad webApp**
+- They may be available as part of **limited-time booster packs**
+- Users can **only hold one badge at a time**
+- The highest-tier badge always takes effect
 
-*Badges are purchased via NyxiumPad's Offical WebApp.*
+> **Note:** Badges are non-transferable, non-tradable, and account-bound.
+
+### 📈 Why Buy a Badge?
+
+Badges significantly increase your NYX allocation at TGE by multiplying your total points.
+
+> **Example:**  
+> If you’ve earned 10,000 points:  
+> • No badge = 10,000 points  
+> • Silver = 12,500 points  
+> • Gold = 15,000 points  
+> • Diamond = 20,000 points
+
+### 🔐 Important Notes
+
+- 🚫 Badges are **not NFTs**
+- 🔄 You can upgrade your badge anytime via the webApp
+- 🧠 Strategic users may buy higher-tier badges closer to TGE to maximize returns
+
+---
+
+Boost your token earnings. Get your badge early.  
+Only on the [NyxiumPad WebApp](https://nyxiumpad.com)
+
+
+
+
+
+
 
 ---
 
